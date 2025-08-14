@@ -44,7 +44,7 @@ Incluye un **panel administrativo** y un **frontend público** con compilación 
 │   └── app.php
 ├── config
 │   ├── inertia.php
-│   ├── jetstream.php            # (si usas Jetstream)
+│   ├── jetstream.php            # (Jetstream)
 │   └── vite.php
 ├── public
 │   └── storage -> ../storage/app/public
@@ -80,7 +80,7 @@ Incluye un **panel administrativo** y un **frontend público** con compilación 
 ├── storage
 │   └── app
 │       └── public
-│           └── profile-photos   # subidas (si usas foto de perfil)
+│           └── profile-photos   # subidas (foto de perfil)
 ├── .env.example
 ├── artisan
 ├── composer.json
@@ -90,4 +90,4 @@ Incluye un **panel administrativo** y un **frontend público** con compilación 
 └── README.md
 ```
 
-(localhost:8000)['localhost:8000']
+[http://localhost:8000](http://localhost:8000)
